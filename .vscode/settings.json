@@ -5,6 +5,8 @@
         "xstring": "cpp",
         "set": "cpp",
         "xtree": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
     }
 }
